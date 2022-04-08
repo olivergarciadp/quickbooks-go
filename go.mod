@@ -1,4 +1,4 @@
-module github.com/rwestlund/quickbooks-go
+module github.com/olivergarciadp/quickbooks-go
 
 go 1.14
 
